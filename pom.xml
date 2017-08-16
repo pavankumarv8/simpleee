@@ -13,11 +13,11 @@
 <distributionManagement>
   <repository>
   <id>releases</id>
-  <url>http://ec2-52-53-244-42.us-west-1.compute.amazonaws.com:8080/nexus-2.14.5-02/content/repositories/releases/</url>
+  <url>http://ec2-54-153-73-41.us-west-1.compute.amazonaws.com:8080/nexus-2.14.5-02/content/repositories/releases/</url>
   </repository>
   <snapshotRepository>
   <id>snapshots</id>
-  <url>http://ec2-52-53-244-42.us-west-1.compute.amazonaws.com:8080/nexus-2.14.5-02/content/repositories/snapshots/</url>
+  <url>http://ec2-54-153-73-41.us-west-1.compute.amazonaws.com:8080/nexus-2.14.5-02/content/repositories/snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
   
